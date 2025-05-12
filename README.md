@@ -13,4 +13,4 @@ Interests:
 3. I have created various python and arduino interactive projects.
 
 ### Favorite Meme:
-Link: [Link Text](#https://big-chungus.fandom.com/wiki/Big_Chungus_(character))
+Link: [Meme](https://big-chungus.fandom.com/wiki/Big_Chungus_(character))
